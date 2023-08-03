@@ -1,0 +1,9 @@
+path: "/home/formbay/Desktop/Dataset_od/Data"
+train: "/home/formbay/Desktop/Dataset_od/Data/images"
+val: "/home/formbay/Desktop/Dataset_od/Data/images"
+
+
+
+names:
+  0: With Helmet
+  1: Without Helmet
